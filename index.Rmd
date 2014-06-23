@@ -1,6 +1,6 @@
 ---
 title       : Some Mathematical Formulaes
-subtitle    : Formulaes of finding Area of triangle, Surface Areas and Volumes of        Cuboid, Cube, Sphere, Hemisphere, Cylinder and Cone
+subtitle    : Formulaes of finding Area of triangle, Surface Areas and Volumes of Cuboid, Cube, Sphere, Hemisphere, Cylinder and Cone
 author      : Nidhi Shrivastava
 job         : FreeLance
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
